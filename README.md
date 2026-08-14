@@ -8,18 +8,35 @@
 
 </div>
 
----
+<br>
+
+<table>
+<tr>
+<td width="45%" valign="top">
 
 ## `// about me`
 
-- 🎓 IT student exploring the world of software & infrastructure
-- 🔐 Working towards becoming a **DevSecOps Engineer**
-- 🐧 Currently getting comfortable with **Linux & Git**
-- ⚙️ Interested in **Docker, CI/CD, Cloud & Cybersecurity**
-- 🚀 I like building things and learning by actually doing
-- 🌙 Probably coding when I should be sleeping
+🎓 IT student  
+🔐 Aspiring DevSecOps Engineer  
+🐧 Linux enthusiast  
+⚙️ Learning Docker & CI/CD  
+💻 Building projects while learning  
 
----
+<br>
+
+<img src="./small.gif" width="180">
+
+</td>
+
+<td width="55%" valign="top">
+
+<img src="./city.gif" width="100%">
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## `// currently learning`
 
