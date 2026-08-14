@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**meetdll/meetdll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hey, i'm Meet 👋
 
-Here are some ideas to get you started:
+### IT Student • Aspiring DevSecOps Engineer 🔐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`building • learning • breaking • fixing`
+
+</div>
+
+---
+
+## `// about me`
+
+- 🎓 IT student exploring the world of software & infrastructure
+- 🔐 Working towards becoming a **DevSecOps Engineer**
+- 🐧 Currently getting comfortable with **Linux & Git**
+- ⚙️ Interested in **Docker, CI/CD, Cloud & Cybersecurity**
+- 🚀 I like building things and learning by actually doing
+- 🌙 Probably coding when I should be sleeping
+
+---
+
+## `// currently learning`
+
+```text
+Linux → Git → Docker → CI/CD → Cloud → DevSecOps
