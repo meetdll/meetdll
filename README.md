@@ -1,44 +1,15 @@
-<div align="center">
+# welcome!
 
-# hey, i'm Meet 👋
+Hey there! My name is Meet Suthar, an IT student. Besides coding, I'm learning DevSecOps and building things along the way.
 
-### IT Student • Aspiring DevSecOps Engineer 🔐
+<img align="right" src="./city.gif" width="45%">
 
-`building • learning • breaking • fixing`
+about me
 
-</div>
+- IT student, aspiring DevSecOps Engineer
+- Linux enthusiast, learning Docker & CI/CD
+- building projects while I learn
+- reach out to me: [meetsuthar.it@gmail.com](mailto:meetsuthar.it@gmail.com)
+- check out my [instagram](https://www.instagram.com/meet.dll/) 
 
-<br>
-
-<table>
-<tr>
-<td width="45%" valign="top">
-
-## `// about me`
-
-🎓 IT student  
-🔐 Aspiring DevSecOps Engineer  
-🐧 Linux enthusiast  
-⚙️ Learning Docker & CI/CD  
-💻 Building projects while learning  
-
-<br>
-
-<img src="./small.gif" width="180">
-
-</td>
-
-<td width="55%" valign="top">
-
-<img src="./city.gif" width="100%">
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## `// currently learning`
-
-```text
-Linux → Git → Docker → CI/CD → Cloud → DevSecOps
+<br clear="right">
