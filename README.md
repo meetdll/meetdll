@@ -6,7 +6,7 @@ Hey there! My name is Meet Suthar, an IT student. Besides coding, I'm learning D
 
 <div>
 
-  <img src="./city.gif" width="42%" align="right">
+  <img src="./city.gif" width="38%" align="right">
 
   about me 
 
