@@ -24,8 +24,6 @@ Hey there! My name is Meet Suthar, an IT student. Besides coding, I'm learning D
   <br>
   <br>
   <br>
-  
-  <br>
   <br>
   <br>
   <br>
