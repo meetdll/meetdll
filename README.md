@@ -15,7 +15,7 @@ Hey there! My name is Meet Suthar, an IT student. Besides coding, I'm learning D
     <li>Linux enthusiast, learning Docker & CI/CD</li>
     <li>building projects & learning by doing</li>
     <li>reach out to me: <a href="mailto:meetsuthar.it@gmail.com">meetsuthar.it@gmail.com</a></li>
-    <li>check out my <a href="YOUR_INSTAGRAM_LINK">instagram</a></li>
+    <li>check out my <a href="https://www.instagram.com/meet.dll/">instagram</a></li>
   </ul>
 
   <br>
